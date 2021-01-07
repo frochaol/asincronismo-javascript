@@ -12,5 +12,8 @@
         "async"
     ],
     "author": "Fernando Rocha <frochaolivera18@gmail.com>",
-    "license": "MIT"
+    "license": "MIT",
+    "dependencies": {
+        "xmlhttprequest": "^1.8.0"
+    }
 }
